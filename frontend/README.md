@@ -11,6 +11,6 @@
     * Including a category picker that pulls the 10 popular images in that category
     * Linking to each image's user's photo stream
     * Anything else cool that we can't think of!
-1. Email a link to your working Heroku app and github repo to devs@stacksocial.com
+1. Email a link to your github repo to devs@stacksocial.com
 
 Feedback is welcome if you found it too easy/hard/whatever.
