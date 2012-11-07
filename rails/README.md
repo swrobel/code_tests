@@ -1,5 +1,12 @@
 # StackSocial Rails challenge
 
+This challenge is designed to test your skill with:
+
+* Ruby on Rails
+* Consuming RESTful APIs
+* Git
+* Deploying to the cloud
+
 **This should hopefully take you about 90 minutes.**
 
 1. Create a Rails 3.2 app that, at a minimum, does the following:
@@ -7,6 +14,7 @@
     * Consumes the [Twitter API](https://dev.twitter.com/docs/api)
     * Displays the time & content of the last 25 tweets for any given twitter handle
 1. Bonus points for:
+    * Writing tests!
     * Caching identical API calls for ~5min to avoid hammering the Twitter API
     * Logging queries to a database and having a page to show a log
     * Parsing @mentions in tweets and linking to the status pages for those 
