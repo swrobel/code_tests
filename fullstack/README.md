@@ -1,4 +1,4 @@
-# StackSocial Full Stack Rails challenge
+# StackSocial Full Stack Rails Challenge
 
 This challenge is designed to test your skill with:
 
