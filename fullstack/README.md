@@ -15,10 +15,10 @@ This challenge is designed to test your skill with:
     * Is hosted on [Heroku](http://heroku.com) (you should be able to use the free plan)
     * Requires an authenticated login to access
     * Consumes the [Twitter API](https://dev.twitter.com/docs/api)
-    * Displays an overview page showing the user, time, and content of the last 20 tweets mentioning a certain term
-    * Allows the user to specify the search term on the overview page, defaulting to something relevant
-    * Displays a user page showing the user, time, and content of the last 20 tweets for any given twitter user (linked to from overview)
-    * Use Bootstrap or Foundation and make the login, overview, and user pages pretty
+    * Displays an overview page showing the Twitter user, time, and content of the last 20 tweets for a certain term
+    * Allows the user to specify a search term on the overview page (defaulting to something relevant)
+    * Displays a user page showing the Twitter user, time, and content of the last 20 tweets for any given Twitter user (linked to from overview)
+    * Uses Bootstrap or Foundation to make the pages pretty
 1. Bonus points for:
     * Writing tests!
     * Caching identical API calls for ~5min to avoid hammering the Twitter API
