@@ -1,8 +1,8 @@
-# StackSocial Full Stack Rails Challenge
+# Full Stack Challenge
 
 This challenge is designed to test your skill with:
 
-* Ruby on Rails
+* Web Frameworks
 * Consuming RESTful APIs
 * User sessions and authentication
 * Front-end design and functionality
@@ -11,7 +11,7 @@ This challenge is designed to test your skill with:
 
 **This should take you about 2.5 hours without all the bonus work.**
 
-1. Create a Rails 3.2 app that, at a minimum, does the following:
+1. Create a web app app that, at a minimum, does the following:
     * Is hosted on [Heroku](http://heroku.com) (you should be able to use the free plan)
     * Requires an authenticated login to access
     * Consumes the [Twitter API](https://dev.twitter.com/docs/api)
@@ -27,6 +27,6 @@ This challenge is designed to test your skill with:
     * Pulling in user profile images
     * Using Javascript to show user information in a modal when clicked or hovered on
     * Anything else cool that we can't think of!
-1. Email a link to your working Heroku app and github repo with the code to `devs@stacksocial.com`
+1. Email a link to your working Heroku app and github repo with the code
 
 Feedback is welcome if you found it too easy/hard/whatever.

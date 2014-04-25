@@ -1,4 +1,4 @@
-# StackSocial Frontend challenge
+# Frontend challenge
 
 This challenge is designed to test your skill with:
 
@@ -7,7 +7,7 @@ This challenge is designed to test your skill with:
 * Consuming RESTful APIs
 * Git
 
-**This should hopefully take you about 90 minutes.**
+**This should take you about 90 minutes.**
 
 1. Create a page that, at a minimum, does the following:
     * Is built with HTML5/CSS3
@@ -17,6 +17,6 @@ This challenge is designed to test your skill with:
     * Including a category picker that pulls the 10 popular images in that category
     * Linking to each image's user's photo stream
     * Anything else cool that we can't think of!
-1. Email a link to a github repo with the code to `devs@stacksocial.com`
+1. Email a link to a github repo with the code and a working version on the web if possible
 
 Feedback is welcome if you found it too easy/hard/whatever.
